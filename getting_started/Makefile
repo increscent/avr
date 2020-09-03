@@ -9,4 +9,4 @@ compile:
 	avr-objcopy -O ihex test.elf test.hex
 
 clean:
-	rm test.o test.elf test.hex || TRUE
+	rm test.o test.elf test.hex || true
