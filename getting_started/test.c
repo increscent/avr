@@ -1,3 +1,5 @@
+// This program lights up LED's connected to pins 10-13
+
 #ifndef F_CPU
 #define F_CPU 16000000UL // or whatever may be your frequency
 #endif
